@@ -11,7 +11,7 @@ After initially going through the data, it was determined that the math and read
 ## Results
 * How is the district summary affected? Removing the 9th grade data from Thomas HS did slightly improve the percentages of students passing for all three categories - Math, Reading and Overall.
 ![district start](https://github.com/AndyHerron/school_district_analysis/blob/main/Resources/orig_district_summary.png)
-![district end]( )
+![district end](https://github.com/AndyHerron/school_district_analysis/blob/main/Resources/new_district_summary.png)
 * How is the school summary affected? Obviously the other schools results did not change, but Thomas High School percentages improved dramatically.
 
 * How does replacing the ninth graders math and reading scores affect Thomas High School's performance relative to the other schools? It moved them up to the second-best performing school in the whole district.
